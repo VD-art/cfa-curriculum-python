@@ -10,22 +10,16 @@ This helps me (and anyone) deeply understand each CFA topic **by coding, not jus
 
 ---
 
-##  What’s inside
+## Modules
 
----
+| Module | Scripts | Notebooks |
+|----------------------:|-------:|----------:|
+| Quantitative Methods | [scripts/quant/README.md](scripts/quant/README.md) | [notebooks/quant/README.md](notebooks/quant/README.md) |
 
-##  Current topics
 
-| Module                | Topics |
-|----------------------:|------------------------------------------------------------------------:|
-| Quantitative Methods  | IRR, NPV, mean, variance, standard deviation, covariance, correlation, time value of money |
-| Economics             | GDP growth models, inflation calculators, currency conversion |
-| FSA                   | Financial ratios, common size statements |
-| Equity                | DDM model, P/E ratio analysis |
-| Fixed Income          | Yield to Maturity, bond pricing, duration |
-| Portfolio             | Beta, portfolio variance, CAPM |
+> Each module folder has its own README with details, formulas, and files.
 
-*(More modules and calculators will be added step by step)*
+> More modules and calculators will be added step by step
 
 ---
 
@@ -48,7 +42,9 @@ pip install -r requirements.txt
 By building Python code for every CFA topic:
 
 • I force myself to truly understand the formulas
+
 • I create a real, reusable toolkit for investing & finance
+
 • And I learn modern, practical Python & Git skills
 
-This is a living project — notebooks and functions will grow as I progress through the CFA curriculum.
+> This is a living project — notebooks and functions will grow as I progress through the CFA curriculum.
