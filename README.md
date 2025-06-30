@@ -19,11 +19,11 @@ This helps me (and anyone) deeply understand each CFA topic **by coding, not jus
 | Module                | Topics |
 |----------------------:|------------------------------------------------------------------------:|
 | Quantitative Methods  | IRR, NPV, mean, variance, standard deviation, covariance, correlation, time value of money |
-| (Planned) Economics   | GDP growth models, inflation calculators, currency conversion |
-| (Planned) FSA         | Financial ratios, common size statements |
-| (Planned) Equity      | DDM model, P/E ratio analysis |
-| (Planned) Fixed Income| Yield to Maturity, bond pricing, duration |
-| (Planned) Portfolio   | Beta, portfolio variance, CAPM |
+| Economics             | GDP growth models, inflation calculators, currency conversion |
+| FSA                   | Financial ratios, common size statements |
+| Equity                | DDM model, P/E ratio analysis |
+| Fixed Income          | Yield to Maturity, bond pricing, duration |
+| Portfolio             | Beta, portfolio variance, CAPM |
 
 *(More modules and calculators will be added step by step)*
 
@@ -33,7 +33,7 @@ This helps me (and anyone) deeply understand each CFA topic **by coding, not jus
 
 1. Clone or download this repo:
 ```bash
-git clone https://github.com/your-username/cfa-curriculum-python.git
+git clone https://github.com/VD-art/cfa-curriculum-python.git
 ```
 
 2. Install required libraries:
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 “If you can’t explain it to a computer, you probably don’t understand it yourself.”
 
 By building Python code for every CFA topic:
-• Using Python as a tool make analytical work efficient as compare to calculators with pen and pencils
+
 • I force myself to truly understand the formulas
 • I create a real, reusable toolkit for investing & finance
 • And I learn modern, practical Python & Git skills
